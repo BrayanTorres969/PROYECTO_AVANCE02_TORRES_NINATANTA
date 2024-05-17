@@ -1,0 +1,3 @@
+﻿  JuegoPersonajes.cpp
+C:\Users\LAB-USR-ATE\Desktop\juegos-cpp\juegos-cpp\JuegoPersonajes\JuegoPersonajes.cpp(173,27): warning C4778: 'printf' : cadena de formato sin terminar '%  '
+  JuegoPersonajes.vcxproj -> C:\Users\LAB-USR-ATE\Desktop\juegos-cpp\juegos-cpp\JuegoPersonajes\x64\Debug\JuegoPersonajes.exe
